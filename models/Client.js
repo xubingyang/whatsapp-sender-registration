@@ -1,5 +1,6 @@
 const mongoose = require('mongoose')
 const slug = require('limax')
+const Sender = require('./Sender')
 
 const ClientSchema = new mongoose.Schema(
   {
@@ -70,7 +71,8 @@ const ClientSchema = new mongoose.Schema(
         validator: function (sender) {
           return /^861([3-9])[0-9]{9}|86[0-9]{10,11}$/.test(sender)
         },
-        message: `请按照 E.164 标准填写正确的手机号码。例: 8613066668888，861088886666`
+        message:
+          '请按照 E.164 标准填写正确的手机号码。例: 8613066668888，861088886666'
       },
       required: [true, '请输入贵司的联系电话号码']
     },

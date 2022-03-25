@@ -70,7 +70,7 @@ const SenderSchema = new mongoose.Schema(
         validator: function (sender) {
           return /^861([3-9])[0-9]{9}|86[0-9]{10,11}$/.test(sender)
         },
-        message: `请按照 E.164 标准填写正确的手机号码。例: 8613066668888`
+        message: '请按照 E.164 标准填写正确的手机号码。例: 8613066668888'
       },
       required: [true, '请输入贵司的手机号']
     },
@@ -138,15 +138,6 @@ SenderSchema.index({ price: 1, ratingAverage: -1 })
 // 通过limax来自动创建slug
 SenderSchema.pre('save', function (next) {
   this.slug = slug(this.name, { tone: false })
-  next()
-})
-
-// // 自动调用手机号码信息
-SenderSchema.pre('save', async function (next) {
-  const sendersPromises = this.senders.map(
-    async (id) => await Sender.findById(id)
-  )
-  this.senders = await Promise.all(sendersPromises)
   next()
 })
 
