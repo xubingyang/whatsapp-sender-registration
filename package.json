@@ -1,0 +1,21 @@
+{
+  "name": "whatsapp-sender-registration",
+  "version": "1.0.0",
+  "description": "WhatsApp Sender Registration for Infobip Partners to onboard their client.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "WhatsApp",
+    "Infobip"
+  ],
+  "author": "Bingyang Xu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
