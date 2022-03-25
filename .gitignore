@@ -1,4 +1,11 @@
-node_modules
+client/build/
+
+node_modules/
+
+config/config.env
+
+dev-data/
+
+*-lock.json
 
 yarn.lock
-package-lock.json
