@@ -1,5 +1,7 @@
-<div align="center"><a href="https://xubingyang.com"><h2>INFOBIP - PWSRP<h2></a></div>
-<div align="center"><p>INFOBIP - Partnership WhatsApp Sender Registration Platform<p></div>
+<div align="center">
+<h1>INFOBIP - PWSRP</h1>
+<h3>INFOBIP - Partnership WhatsApp Sender Registration Platform</h3>
+</div>
 
 <div align="center">
 <a href="https://img.shields.io/badge/xubingyang-made-brightgreen"><img src="https://img.shields.io/badge/xubingyang-made-brightgreen" alt="Made by Bingyang Xu"></a>
