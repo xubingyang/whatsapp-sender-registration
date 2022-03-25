@@ -9,7 +9,8 @@
     "import": "node import-delete-dev-data.js --import",
     "delete": "node import-delete-dev-data.js --delete",
     "debug": "ndb server.js",
-    "test": "standard && node my-tests.js",
+    "test": "standard",
+    "correct": "standard --fix",
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
