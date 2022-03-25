@@ -4,17 +4,17 @@
 </div>
 
 <div align="center">
-<a href="https://img.shields.io/badge/xubingyang-made-brightgreen"><img src="https://img.shields.io/badge/xubingyang-made-brightgreen" alt="Made by Bingyang Xu"></a>
-<a href="https://img.shields.io/badge/infobip-partners-brightgreen"><img src="https://img.shields.io/badge/infobip-partner-brightgreen" alt="Infobip Partner"></a>
-<a href="https://github.com/standard/standard"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="JavaScript Style"></a>
-<a href="https://github.com/xubingyang/whatsapp-sender-registration"><img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/xubingyang/whatsapp-sender-registration"></a>
-<a href="https://www.codefactor.io/repository/github/xubingyang/whatsapp-sender-registration"><img alt="CodeFactor Grade" src="https://img.shields.io/codefactor/grade/github/xubingyang/whatsapp-sender-registration"></a>
-<a href="https://github.com/xubingyang/whatsapp-sender-registration"><img alt="Code lines Count" src="https://tokei.rs/b1/github/xubingyang/whatsapp-sender-registration"></a>
-<a href="https://app.travis-ci.com/github/xubingyang/whatsapp-sender-registration"><img src="https://app.travis-ci.com/xubingyang/whatsapp-sender-registration.svg?branch=main" alt="Build Status"></a>
-<a href="https://inch-ci.org/github/xubingyang/whatsapp-sender-registration"><img src="https://inch-ci.org/github/xubingyang/whatsapp-sender-registration.svg?branch=main" alt="Inline docs"></a>
-<a href="https://github.com/xubingyang/whatsapp-sender-registration"><img alt="GitHub" src="https://img.shields.io/github/license/xubingyang/whatsapp-sender-registration"></a>
-<a href="https://github.com/xubingyang/whatsapp-sender-registration"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/xubingyang/whatsapp-sender-registration"></a>
-<a href="https://github.com/xubingyang/whatsapp-sender-registration"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/xubingyang/whatsapp-sender-registration"></a>
+<a target="_blank" href="https://img.shields.io/badge/xubingyang-made-brightgreen"><img src="https://img.shields.io/badge/xubingyang-made-brightgreen" alt="Made by Bingyang Xu"></a>
+<a target="_blank" href="https://img.shields.io/badge/infobip-partners-brightgreen"><img src="https://img.shields.io/badge/infobip-partner-brightgreen" alt="Infobip Partner"></a>
+<a target="_blank" href="https://github.com/standard/standard"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="JavaScript Style"></a>
+<a target="_blank" href="https://github.com/xubingyang/whatsapp-sender-registration"><img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/xubingyang/whatsapp-sender-registration"></a>
+<a target="_blank" href="https://www.codefactor.io/repository/github/xubingyang/whatsapp-sender-registration"><img alt="CodeFactor Grade" src="https://img.shields.io/codefactor/grade/github/xubingyang/whatsapp-sender-registration"></a>
+<a target="_blank" href="https://github.com/xubingyang/whatsapp-sender-registration"><img alt="Code lines Count" src="https://tokei.rs/b1/github/xubingyang/whatsapp-sender-registration"></a>
+<a target="_blank" href="https://app.travis-ci.com/github/xubingyang/whatsapp-sender-registration"><img src="https://app.travis-ci.com/xubingyang/whatsapp-sender-registration.svg?branch=main" alt="Build Status"></a>
+<a target="_blank" href="https://inch-ci.org/github/xubingyang/whatsapp-sender-registration"><img src="https://inch-ci.org/github/xubingyang/whatsapp-sender-registration.svg?branch=main" alt="Inline docs"></a>
+<a target="_blank" href="https://github.com/xubingyang/whatsapp-sender-registration"><img alt="GitHub" src="https://img.shields.io/github/license/xubingyang/whatsapp-sender-registration"></a>
+<a target="_blank" href="https://github.com/xubingyang/whatsapp-sender-registration"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/xubingyang/whatsapp-sender-registration"></a>
+<a target="_blank" href="https://github.com/xubingyang/whatsapp-sender-registration"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/xubingyang/whatsapp-sender-registration"></a>
 </div>
 
 
@@ -83,5 +83,5 @@ Then in the `/` project directory:
 
 This project is using prettier and standart for checking JavaScript style.
 <div align="center">
-<a href="https://github.com/standard/standard"><img src="https://cdn.rawgit.com/standard/standard/master/badge.svg" alt="js-standard-style"></a>
+<a target="_blank" href="https://github.com/standard/standard"><img src="https://cdn.rawgit.com/standard/standard/master/badge.svg" alt="js-standard-style"></a>
 </div>
